@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Dong Xin, a student from Tsinghua University. I want to study in Github and make some contributions to the community. 
+I am Xin Dong, a student from Tsinghua University. I want to study in Github and make some contributions to the community. 
 
 - 🔭 I’m currently working on video generation task. More specifically, I focus on the human-centric video generation. 
 - 🌱 I’m currently learning artifical intelligence, deep learning and generative models. 
