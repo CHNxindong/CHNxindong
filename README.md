@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋
+--> 
 
 <!--
 **CHNxindong/CHNxindong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Dong Xin, a student from Tsinghua University. I want to study in Github and make some contributions to the community. 
+
+- 🔭 I’m currently working on video generation task. More specifically, I focus on the human-centric video generation. 
+- 🌱 I’m currently learning artifical intelligence, deep learning and generative models. 
