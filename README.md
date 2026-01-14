@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 I am Xin Dong. My motto: down-to-earth, calm and composed. 
 
-- 🔭 I’m currently working on video generation task. More specifically, I focus on the human-centric video generation. 
+- 🔭 I’m currently working on 3D AIGC and multimodal modeling. More specifically, I focus on the physics-driven dynamic 3D generation.
 - 🌱 I’m currently learning artifical intelligence, deep learning and generative models. 
